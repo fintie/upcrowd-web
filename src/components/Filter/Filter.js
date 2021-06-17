@@ -78,7 +78,7 @@ export default function Filter(props) {
         </button>
       </h3>
       <div className="inputs" aria-expanded={showFilters}>
-        <Input id="technology" label="Technology" key="technology">
+        <Input id="technology" label="Category" key="technology">
           <AutoComplete
             value={tag}
             id="technology"
