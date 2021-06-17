@@ -20,7 +20,7 @@ const Navbar = () => {
     <>
       <Menu>
         <Logo
-          src={`${process.env.PUBLIC_URL}/codingcoach-logo-192.png`}
+          src={`${process.env.PUBLIC_URL}/upcrowd.png`}
           alt="Logo"
         />
         <MenuItem to="/me" icon={IconHome} label="Home" />
