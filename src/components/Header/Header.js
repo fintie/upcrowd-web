@@ -31,10 +31,9 @@ function Header() {
       <LogoTitleWrapper>
         <LogoWrapper>
           <LogoLink href="http://theupcrowd.com">
-            <img src="https://github.com/fintie/upcrowd-web/blob/master/public/upcrowd.png?raw=true" width="90.78"></img>
+            <img src="https://github.com/fintie/upcrowd-web/blob/master/public/upcrowd.png?raw=true" width="120"></img>
           </LogoLink>
         </LogoWrapper>
-        {isDesktop && <Title />}
       </LogoTitleWrapper>
 
       {isDesktop ? (
