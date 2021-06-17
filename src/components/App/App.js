@@ -247,7 +247,7 @@ const App = () => {
               target="_blank"
             >
               <img
-                src={`${process.env.PUBLIC_URL}/images/coding-coach-patron-button.jpg`}
+                src={`${process.env.PUBLIC_URL}/mentor_button.jpg`}
                 alt="Become a Mentor"
               />
             </a>
