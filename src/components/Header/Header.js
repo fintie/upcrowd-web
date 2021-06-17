@@ -30,8 +30,8 @@ function Header() {
     <HeaderWrapper>
       <LogoTitleWrapper>
         <LogoWrapper>
-          <LogoLink href="https://codingcoach.io/">
-            <Logo />
+          <LogoLink href="http://theupcrowd.com">
+            <img src="https://github.com/fintie/upcrowd-web/blob/master/public/upcrowd.png?raw=true">
           </LogoLink>
         </LogoWrapper>
         {isDesktop && <Title />}
