@@ -8,17 +8,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "codingcoach-logo-192.png",
+      "src": "upcrowd.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "codingcoach-logo-384.png",
+      "src": "upcrowd.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "codingcoach-logo-512.png",
+      "src": "upcrowd.png",
       "type": "image/png",
       "sizes": "512x512"
     }
