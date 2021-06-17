@@ -247,7 +247,7 @@ const App = () => {
               target="_blank"
             >
               <img
-                src={`${process.env.PUBLIC_URL}/mentor_button.jpg`}
+                src={`https://github.com/fintie/upcrowd-web/blob/master/public/mentor_button.png?raw=true`}
                 alt="Become a Mentor"
               />
             </a>
