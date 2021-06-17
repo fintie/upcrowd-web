@@ -48,7 +48,6 @@ const Header = () => (
   <HeaderContainer>
     <Home>Home</Home>
     <LogoContainer>
-      <Logo />
     </LogoContainer>
   </HeaderContainer>
 );
