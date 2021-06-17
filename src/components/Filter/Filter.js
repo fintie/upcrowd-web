@@ -63,7 +63,7 @@ export default function Filter(props) {
   return (
     <section aria-labelledby="filter" className="filter-wrapper">
       <h3 id="filter">
-        Filter <span id="mentorCount">{props.mentorCount} Mentors</span>
+        Filter
         <button
           className="toggle-filter"
           onClick={onToggleShowFilters}
