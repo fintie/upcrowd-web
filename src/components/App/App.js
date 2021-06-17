@@ -240,15 +240,15 @@ const App = () => {
               />
             </nav>
             <a
-              href="https://www.patreon.com/codingcoach_io"
+              href="https://forms.gle/JVssxjGEzq2mtvq39"
               className="patreon-link"
-              aria-label="Become a Patreon. A Patreon is a person who helps economically a project he or she believes in."
+              aria-label="Become a Mentor."
               rel="noopener noreferrer"
               target="_blank"
             >
               <img
                 src={`${process.env.PUBLIC_URL}/images/coding-coach-patron-button.jpg`}
-                alt="Become a Patron"
+                alt="Become a Mentor"
               />
             </a>
           </aside>
