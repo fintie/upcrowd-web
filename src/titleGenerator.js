@@ -1,7 +1,7 @@
 import countries from 'svg-country-flags/countries.json';
 import ISO6391 from 'iso-639-1';
 
-export const prefix = 'Coding Coach';
+export const prefix = 'UpCrowd';
 
 export function set({ tag, country, name, language }) {
   document.title = generate({ tag, country, name, language });
