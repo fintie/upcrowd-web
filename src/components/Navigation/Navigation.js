@@ -36,7 +36,7 @@ function Navigation({ isAuthenticated, onOpenModal }) {
       <List>
         <Link href="https://codingcoach.io/">About</Link>
         <Link href="https://docs.google.com/document/d/1zKCxmIh0Sd4aWLiQncICOGm6uf38S0kJ0xb0qErNFVA/edit">
-          Mentorship Guidelines
+          Find A Mentor
         </Link>
         {renderBecomeAMentor()}
         <Link href="https://calendar.google.com/calendar/u/0?cid=Y18xdmhxMWlzOTRqdHVwdHZnNTJrbzM0cW42a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank">Sessions Calender</Link>
