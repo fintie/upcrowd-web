@@ -1,6 +1,6 @@
 const privacyPolicy = `<h4>Effective date: October 03, 2018</h4>
 
-Coding Coach ("us", "we", or "our") operates the website and the Coding Coach mobile application (the "Service").
+UpCrowd ("us", "we", or "our") operates the website and the UpCrowd mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure ofn personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Coding Coach is managed through Free Privacy Policy.
 
