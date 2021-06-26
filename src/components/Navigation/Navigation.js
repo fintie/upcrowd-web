@@ -17,15 +17,9 @@ function Navigation({ isAuthenticated, onOpenModal }) {
     if (isAuthenticated && isMentor(currentUser)) {
       return null;
     }
-    if (isAuthenticated) {
-      return (
-        <Link href="#" onClick={openProfile}>
-          Become a Mentor
-        </Link>
-      );
-    }
+
     return (
-      <Link href="#" onClick={e => e.preventDefault() || auth.login(true)}>
+      <Link href="https://forms.gle/JVssxjGEzq2mtvq39">
         Become a Mentor
       </Link>
     );
