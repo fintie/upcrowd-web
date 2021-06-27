@@ -95,7 +95,7 @@ const HeaderWrapper = styled.header`
   align-items: center;
   border-bottom: 1px solid #dadada;
   z-index: 3;
-  background: #fbdb5b;
+  background: #fbdf59;
 `;
 
 const LogoTitleWrapper = styled.div`
