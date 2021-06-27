@@ -81,7 +81,7 @@ const reactSelectStyles = {
       fontSize: '14px',
       lineHeight: '17px',
       fontFamily: 'Lato, sans-serif',
-      backgroundColor: isDisabled ? '#bfbfbf' : isFocused ? '#69D5B1' : '#fff',
+      backgroundColor: isDisabled ? '#bfbfbf' : isFocused ? '#fbdf59' : '#fff',
     };
   },
   multiValueLabel: base => ({
