@@ -38,7 +38,7 @@ const StyledCheckbox = styled.div`
   align-items: flex-end;
   box-sizing: border-box;
   padding-right: 2px;
-  border: 2px solid #69d5b1;
+  border: 2px solid #fbdf59;
   border-radius: 50%;
   width: 24px;
   height: 24px;
