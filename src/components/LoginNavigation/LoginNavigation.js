@@ -24,7 +24,7 @@ const LoginAreaItem = styled.div`
   }
 
   @media all and (min-width: 800px) {
-    color: #69d5b1;
+    color: #000000;
   }
 `;
 
