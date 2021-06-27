@@ -138,7 +138,7 @@ const Open = styled.i`
   z-index: 100;
 
   &:hover {
-    color: #69d5b1;
+    color: #fbdf59;
     transition-duration: 0.2s;
     transition-property: -ms-transform, transform, transform;
     transition-timing-function: ease-out;
