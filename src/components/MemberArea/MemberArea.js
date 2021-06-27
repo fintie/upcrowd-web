@@ -136,7 +136,7 @@ const UserAvatar = styled.div`
   width: 50px;
   margin-right: 20px;
   border-radius: 50%;
-  border: 4px solid #69d5b1;
+  border: 4px solid #fbdf59;
   cursor: pointer;
   position: relative;
 `;
