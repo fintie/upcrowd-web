@@ -40,7 +40,7 @@ export const mobileNavHeight = 74;
 const Menu = styled.nav`
   position: fixed;
   left: 0;
-  background-color: #fbdb5b;
+  background-color: #fbdf59;
   overflow-x: hidden;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
 
