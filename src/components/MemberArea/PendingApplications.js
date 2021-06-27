@@ -145,7 +145,7 @@ const Table = styled.table`
   border-spacing: 0;
 
   thead tr {
-    background-color: rgba(105, 213, 177, 0.3);
+    background-color: #fbdb5b;
     color: #4a4a4a;
   }
 
