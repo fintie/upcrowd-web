@@ -114,7 +114,7 @@ const LogoLink = styled.a``;
 
 const HeaderOffCanvas = styled(OffCanvas)`
   outline: currentcolor none 0;
-  background: #00e5b3;
+  background: #fbdf59;
   transition: transform 0.25s ease-out 0s;
   visibility: visible;
   color: white;
