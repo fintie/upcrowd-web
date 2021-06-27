@@ -98,16 +98,6 @@ export default function Filter(props) {
             data-testid="country-filter-autocomplete"
           />
         </Input>
-        <Input id="name" label="Name" key="name">
-          <AutoComplete
-            value={name}
-            id="name"
-            source={names}
-            onSelect={onNameSelect}
-            showClear
-            data-testid="name-filter-autocomplete"
-          />
-        </Input>
         <Input id="language" label="Language" key="language">
           <AutoComplete
             value={languageLabel()}
