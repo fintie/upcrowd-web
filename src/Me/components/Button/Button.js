@@ -30,14 +30,14 @@ const StyledButton = styled.button`
 `;
 
 const PrimaryButton = styled(StyledButton)`
-  background-color: #69d5b1;
+  background-color: #000000;
   color: #fff;
 `;
 
 const SecondaryButton = styled(StyledButton)`
   background-color: #fff;
   border: 2px solid;
-  color: #69d5b1;
+  color: #000000;
 `;
 
 const DangerButton = styled(StyledButton)`
