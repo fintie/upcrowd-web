@@ -28,7 +28,7 @@ function Navigation({ isAuthenticated, onOpenModal }) {
   return (
     <Nav id="menu">
       <List>
-        <Link href="https://docs.google.com/document/d/1zKCxmIh0Sd4aWLiQncICOGm6uf38S0kJ0xb0qErNFVA/edit">
+        <Link href="https://forms.gle/n5obxdp58eynN2J59">
           Find A Mentor
         </Link>
         {renderBecomeAMentor()}
