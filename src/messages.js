@@ -6,7 +6,7 @@ export default {
   EDIT_DETAILS_DELETE_ACCOUNT_CONFIRM:
     'Are you sure you want to delete your account?',
   CARD_APPLY_TOOLTIP:
-    "Click here to Login / Register<br />to get the mentor's details",
+    "Submit your details to get connect with mentors",
   CARD_ANONYMOUS_LIKE_TOOLTIP:
     'Click here to Login / Register<br />to add this mentor to favorites',
   LOGOUT: 'Logout',
