@@ -38,12 +38,12 @@ const applyOnClick = () => {
 const nonLoggedinChannels = () => {
   return (
     <Tooltip title={messages.CARD_APPLY_TOOLTIP} size="big" arrow={true}>
-      <button onClick="window.location.href='https://forms.gle/wPzUKy1HtaK9UMvr8'">
+      <a href="https://forms.gle/wPzUKy1HtaK9UMvr8"><button>
         <div className="icon">
           <i className="fa fa-hand-o-right fa-lg" />
         </div>
         <p className="type">Apply</p>
-      </button>
+      </button></a>
     </Tooltip>
   );
 };
