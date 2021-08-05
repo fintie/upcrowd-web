@@ -98,7 +98,19 @@
         "description": "I’m a seasoned SEO and digital marketing expert and have experience mentoring both those wanting to improve their marketing skills and career opportunities, and also founders and entrepreneurs learning how to grow their own business faster and more cost effectively. As Head of Marketing at a leading New York agency, I can develop your skillsets to achieve your goals, and give guidance and insights on your projects as needed.",
         "country": "AU",
         "channels": []
-      }          
+      },
+      {
+        "_id": "5d5d6372f4fcfc765924b7d0",
+        "available": true,
+        "spokenLanguages": ["en"],
+        "tags": ["Cyber Security", "Enterprise Security Architecture", "SABSA"],
+        "name": "Shane",
+        "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d",
+        "title": "Senior IT Security professional",
+        "description": "I’m a seasoned cyber security professional with extensive experience in many areas of Cyber Security and provide expert advice on Enterprise Security Architecture. I can help develop your skills to help achieve your goals in many areas of Cyber Security through mentoring, and personal roadmaps for career development.",
+        "country": "AU",
+        "channels": []
+      } 
   ]
 }
 
