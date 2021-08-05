@@ -1,5 +1,4 @@
-const aboutUs = `
-<h1>Mission</h1>
+const aboutUs = `<h1>Mission</h1>
 
 Upcrowd’s mission is to drive social impact and empower people’s success by providing a simplified digital marketplace platform for everyone to access a wide range of mentors and industry experts. We leverage AI to efficiently and accurately match mentors and mentees anywhere in the world.
 
@@ -59,6 +58,6 @@ Whether you're a technical professional wanting to level up your skills, or are 
 
 <br><br>
 
-Get what you want out of life with qualified coaches in mental health, diet and nutrition, personal growth, overcoming limiting beliefs, networking and relationships, planning and goal setting to make your dreams a reality.`
+Get what you want out of life with qualified coaches in mental health, diet and nutrition, personal growth, overcoming limiting beliefs, networking and relationships, planning and goal setting to make your dreams a reality.`;
 
 export default aboutUs;
