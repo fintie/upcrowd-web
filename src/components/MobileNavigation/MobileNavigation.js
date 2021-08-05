@@ -33,7 +33,7 @@ function MobileNavigation(props) {
         <ModalContent
           policyTitle={'About Us'}
           content={'about-us'}
-          handleModal={(title, content) => handleModal(title, content)}
+          handleModal={(title, content) => handleModal({ title, content })}
         />
         <ModalContent
           policyTitle={'Cookies policy'}
