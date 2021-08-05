@@ -219,6 +219,11 @@ const App = () => {
             <SocialLinks />
             <nav className="sidebar-nav">
               <ModalContent
+                policyTitle={'About Us'}
+                content={'about-us'}
+                handleModal={(title, content) => handleModal(title, content)}
+              />
+              <ModalContent
                 policyTitle={'Cookies policy'}
                 content={'cookies-policy'}
                 handleModal={(title, content) => handleModal(title, content)}
