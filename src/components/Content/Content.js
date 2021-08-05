@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import aboutUs from '../../contents/aboutUs';
 import cookiesPolicy from '../../contents/cookiesPolicy';
 import termsAndConditions from '../../contents/termsAndConditions';
 import privacyPolicy from '../../contents/privacyPolicy';
@@ -7,6 +8,7 @@ import codeOfConduct from '../../contents/codeOfConduct.js';
 import './Content.css';
 
 const Contents = {
+  'about-us': aboutUs,
   'cookies-policy': cookiesPolicy,
   'terms-conditions': termsAndConditions,
   'privacy-policy': privacyPolicy,
