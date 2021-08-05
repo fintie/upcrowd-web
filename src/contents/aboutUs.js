@@ -6,7 +6,7 @@ Upcrowd’s mission is to drive social impact and empower people’s success by 
 
 <h1>How It Works</h1>
 
-<h2>For Mentors</h2>
+<h3>For Mentors</h3>
 
 UpCrowd is the place where successful entrepreneurs, senior executives, and leading experts make extra income sharing their wisdom with the next generation of achievers.
 <br><br>
@@ -26,7 +26,7 @@ Step 4: Get Paid
 <br><br>
 You decide your own monthly mentoring fee, and we take care of invoicing and payments. 
 
-<h2>For Mentees</h2>
+<h3>For Mentees</h3>
 
 Our mentors are successful and experienced business leaders passionate about giving back by passing on their wisdom and insights. <br><br>Here’s how they can help:
 
@@ -39,7 +39,7 @@ Instant access to seasoned entrepreneurs and business leaders with insights to h
 
 <br><br>
 
-Step 2: Career
+2: Career
 
 <br><br>
 
@@ -47,7 +47,7 @@ Work smarter not harder to actually get ahead with personalised insider advice t
 
 <br><br>
 
-Step 3: Technical Specialists
+3: Technical Specialists
 
 <br><br>
 
@@ -55,7 +55,7 @@ Whether you're a technical professional wanting to level up your skills, or are 
 
 <br><br>
 
-Step 4: Mind
+4: Mind
 
 <br><br>
 
