@@ -25,8 +25,6 @@ const MentorsList = props => {
 
   const { mentors, className } = props;
   const mentorsInList = mentors.slice(0, page * itemsInPage);
-  console.log("MENTORS IN LIST:");
-  console.log(mentorsInList);
 
   const mentorsList = () => {
     const { favorites, onFavMentor } = props;
@@ -69,5 +67,9 @@ const MentorsList = props => {
     </section>
   );
 };
+
+
+console.log("MENTORS IN LIST:");
+console.log(mentorsInList);
 
 export default MentorsList;
