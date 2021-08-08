@@ -7,7 +7,7 @@ import './MentorList.css';
 import { Loader } from '../Loader';
 import { report } from '../../ga';
 
-const itemsInPage = 20;
+const itemsInPage = 6;
 
 const MentorsList = props => {
   const [page, setPage] = useState(1);
