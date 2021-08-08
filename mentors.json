@@ -65,7 +65,7 @@
     },
     {
       "_id": "5d5d6372f4fcfc765924b7ac",
-      "available": true,
+      "available": false,
       "spokenLanguages": ["en"],
       "tags": ["workplace-consultation", "career-transition"],
       "name": "Oliver G",
@@ -119,7 +119,7 @@
         "name": "Leon M",
         "avatar": "/avatars/c5fc71ed06c207b871569822eb81a28d",
         "title": "Risk and Assurance",
-        "description": "Banking and Finance background with experience in developing and implementing credit, operational and compliance risk frameworks, policies and processes in retail and commercial banking.",
+        "description": "Banking and Finance background with experience in developing and implementing credit, operational and compliance risk frameworks, policies and processes in retail and commercial banking. My skills are in change and innovation, researching, benchmarking and competitive intelligence. I developed and implemented improvements to risk management frameworks, led projects to improve the science behind risk management and undertook audits to test their effectiveness.",
         "country": "AU",
         "channels": []
       },
