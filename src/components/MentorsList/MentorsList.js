@@ -64,8 +64,9 @@ const MentorsList = props => {
       {nothingToShow(!!mentorsInList.length)}
     </InfiniteScroll>
     
+    <a href="https://forms.gle/wPzUKy1HtaK9UMvr8" class="patreon-link" aria-label="View More" rel="noopener noreferrer" target="_blank"><img src="https://github.com/fintie/upcrowd-web/blob/master/public/viewmore_button.png?raw=true" alt="View More"></a>
+    
     </section>
-    <a href="https://forms.gle/wPzUKy1HtaK9UMvr8" class="patreon-link" aria-label="View More" rel="noopener noreferrer" target="_blank"><img src="https://github.com/fintie/upcrowd-web/blob/master/public/viewmore_button.png?raw=true" alt="View More"></img></a>
   );
 };
 
