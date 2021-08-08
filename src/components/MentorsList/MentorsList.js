@@ -68,8 +68,4 @@ const MentorsList = props => {
   );
 };
 
-
-console.log("MENTORS IN LIST:");
-console.log(mentorsInList);
-
 export default MentorsList;
