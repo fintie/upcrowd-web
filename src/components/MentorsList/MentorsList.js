@@ -55,6 +55,7 @@ const MentorsList = props => {
       className={classNames(['mentors-wrapper', className])}
       data-testid="mentors-wrapper"
     >
+    </section>
   );
 };
 
