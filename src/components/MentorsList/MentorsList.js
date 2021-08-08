@@ -57,7 +57,7 @@ const MentorsList = props => {
     >
     <InfiniteScroll
       className="mentors-cards"
-      hasMore={false}
+      hasMore={mentorsInList.length < mentors.length}
     >
       {mentorsList(mentorsInList)}
       {!ready && <Loader />}
