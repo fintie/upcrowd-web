@@ -55,16 +55,6 @@ const MentorsList = props => {
       className={classNames(['mentors-wrapper', className])}
       data-testid="mentors-wrapper"
     >
-      <InfiniteScroll
-        className="mentors-cards"
-        loadMore={loadMore}
-        hasMore={mentorsInList.length < mentors.length}
-      >
-        {mentorsList(mentorsInList)}
-        {!ready && <Loader />}
-        {nothingToShow(!!mentorsInList.length)}
-      </InfiniteScroll>
-    </section>
   );
 };
 
